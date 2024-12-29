@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Albuquerque 👨🏽‍💻 / Desenvolvedor front-end
 <br>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasx-dev&show_icons=true&theme=blue-green&locale=pt-br)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasx-dev&show_icons=true&theme=transparent&locale=pt-br)
 
 
 ### Minhas Habilidades---------------------
